@@ -1,2 +1,2 @@
 # Curriculum_Supplemental_Lesson_Examples
-Lesson walkthroughs and examples to help students better understand the materials.
+Lesson walk-throughs and examples to help students better understand the materials.
